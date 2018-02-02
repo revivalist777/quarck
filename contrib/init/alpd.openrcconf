@@ -1,0 +1,26 @@
+# /etc/conf.d/alpd: config file for /etc/init.d/alpd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/alp/alp.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/alpd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/alpd.pid"
+
+# Where to write alpd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/alpd"
+
+# User and group to own alpd process
+#BITCOIND_USER="alp"
+#BITCOIND_GROUP="alp"
+
+# Path to alpd executable
+#BITCOIND_BIN="/usr/bin/alpd"
+
+# Nice value to run alpd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

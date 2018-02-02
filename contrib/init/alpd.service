@@ -1,0 +1,26 @@
+[Unit]
+Description=ALP's distributed currency daemon
+After=network.target
+
+[Service]
+User=alp
+Group=alp
+
+Type=forking
+PIDFile=/var/lib/alpd/alpd.pid
+
+ExecStart=/usr/bin/alpd -daemon -pid=/var/lib/alpd/alpd.pid \
+          -conf=/etc/alp/alp.conf -datadir=/var/lib/alpd
+
+ExecStop=-/usr/bin/alp-cli -conf=/etc/alp/alp.conf \
+         -datadir=/var/lib/alpd stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

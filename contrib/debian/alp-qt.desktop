@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=AlphaCoin
+Comment=AlphaCoin P2P Cryptocurrency
+Comment[fr]=AlphaCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=AlphaCoin, eşten eşe kriptografik sanal para birimi
+Exec=alp-qt %u
+Terminal=false
+Type=Application
+Icon=alp128
+MimeType=x-scheme-handler/alp;
+Categories=Office;Finance;
