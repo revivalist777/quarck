@@ -43,7 +43,7 @@
       <string>io.delion.DelionCoin</string>
       <key>CFBundleURLSchemes</key>
       <array>
-        <string>alp</string>
+        <string>delion</string>
       </array>
     </dict>
   </array>
@@ -62,7 +62,7 @@
       <key>UTTypeTagSpecification</key>
       <dict>
         <key>public.mime-type</key>
-        <string>application/x-alp-payment-request</string>
+        <string>application/x-delion-payment-request</string>
         <key>public.filename-extension</key>
         <array>
           <string>delionpaymentrequest</string>
