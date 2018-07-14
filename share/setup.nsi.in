@@ -84,7 +84,7 @@ Section -Main SEC0000
     SetOutPath $INSTDIR
     WriteRegStr HKCU "${REGKEY}\Components" Main 1
 
-    # Remove old wxwidgets-based-alp executable and locales:
+    # Remove old wxwidgets-based-delion executable and locales:
     Delete /REBOOTOK $INSTDIR\delion.exe
     RMDir /r /REBOOTOK $INSTDIR\locale
 SectionEnd
