@@ -62,11 +62,11 @@
         <translation>Modtageradresse</translation>
     </message>
     <message>
-        <source>These are your AlphaCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Delion Coin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Dine adresser til at sende betalinger med. Kontroller altid både beløb og modtageradresse før afsendelse.</translation>
     </message>
     <message>
-        <source>These are your AlphaCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Delion Coin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>Dette er dine modtager adresser. Det anbefales at anvende en ny adresse til hver transaktion</translation>
     </message>
     <message>
@@ -176,16 +176,16 @@
         <translation>Bekræft, og tegnebogen krypteres.</translation>
     </message>
     <message>
-        <source>ALP will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ALPs from being stolen by malware infecting your computer.</source>
-        <translation>ALP vil lukke ned for at færdiggøre kryptograferingsprocesserne. Husk at kryptering alene ikke sikrer mod tyveri af mønterne fra malware eller virus på computeren.</translation>
+        <source>DELION will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your DELIONs from being stolen by malware infecting your computer.</source>
+        <translation>DELION vil lukke ned for at færdiggøre kryptograferingsprocesserne. Husk at kryptering alene ikke sikrer mod tyveri af mønterne fra malware eller virus på computeren.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Er du sikker på, at du vil kryptere din tegnebog?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ALP&lt;/b&gt;!</source>
-        <translation>Advarsel! Hvis du krypterer din tegnebog og mister dit password vil du &lt;b&gt;MISTE ALLE DINE ALP&lt;/b&gt;. Passworded kan ikke genskabes.</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DELION&lt;/b&gt;!</source>
+        <translation>Advarsel! Hvis du krypterer din tegnebog og mister dit password vil du &lt;b&gt;MISTE ALLE DINE DELION&lt;/b&gt;. Passworded kan ikke genskabes.</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -239,16 +239,16 @@
         <translation>BIP 38 kryptografering</translation>
     </message>
     <message>
-        <source>Enter a AlphaCoin address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Indtast den ALP adresse De ønsker at kryptografere ved hjælp af BIP 38. Indtast et kodeord i den midterste boks. Klik på krypter for at generere den kryptograferede private nøgle.</translation>
+        <source>Enter a Delion Coin address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Indtast den DELION adresse De ønsker at kryptografere ved hjælp af BIP 38. Indtast et kodeord i den midterste boks. Klik på krypter for at generere den kryptograferede private nøgle.</translation>
     </message>
     <message>
         <source>Address:</source>
         <translation>Adresse</translation>
     </message>
     <message>
-        <source>The AlphaCoin address to sign the message with</source>
-        <translation>Den ALP adresse, der skal bruges til at underskrive beskeden med.</translation>
+        <source>The Delion Coin address to sign the message with</source>
+        <translation>Den DELION adresse, der skal bruges til at underskrive beskeden med.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -279,8 +279,8 @@
         <translation>Kopier den aktuelle underskrift til udklipsholderen.</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this AlphaCoin address</source>
-        <translation>Underskriv beskeden for at bevise, at De ejer denne ALP adresse.</translation>
+        <source>Sign the message to prove you own this Delion Coin address</source>
+        <translation>Underskriv beskeden for at bevise, at De ejer denne DELION adresse.</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -303,12 +303,12 @@
         <translation>Indtast den krypterede BIP 38 nøgle. Indtast kodeordet i den midterste boks. Klik på dekryptér for at generere den private nøgle. Når nøglen er dekrypteret vil klip på "importér adresse" overføre den private nøgle til tegnebogen.</translation>
     </message>
     <message>
-        <source>The AlphaCoin address the message was signed with</source>
-        <translation>Beskeden er underskrevet med denne ALP adresse</translation>
+        <source>The Delion Coin address the message was signed with</source>
+        <translation>Beskeden er underskrevet med denne DELION adresse</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified AlphaCoin address</source>
-        <translation>verificer beskeden for at sikre, at den blev underskrevet med den rigtige ALP adresse.</translation>
+        <source>Verify the message to ensure it was signed with the specified Delion Coin address</source>
+        <translation>verificer beskeden for at sikre, at den blev underskrevet med den rigtige DELION adresse.</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -598,16 +598,16 @@
         <translation>Værktøjslinier</translation>
     </message>
     <message>
-        <source>AlphaCoin Core</source>
-        <translation>ALP kerne</translation>
+        <source>Delion Coin Core</source>
+        <translation>DELION kerne</translation>
     </message>
     <message>
-        <source>Send coins to a AlphaCoin address</source>
-        <translation>Send mønter til en ALP adresse</translation>
+        <source>Send coins to a Delion Coin address</source>
+        <translation>Send mønter til en DELION adresse</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and ALP: URIs)</source>
-        <translation>Anmod om betaling (genrerer QR kode og ALP URL)</translation>
+        <source>Request payments (generates QR codes and DELION: URIs)</source>
+        <translation>Anmod om betaling (genrerer QR kode og DELION URL)</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -618,24 +618,24 @@
         <translation>Vis masternoder</translation>
     </message>
     <message>
-        <source>&amp;About AlphaCoin Core</source>
-        <translation>&amp;Om ALP kerne</translation>
+        <source>&amp;About Delion Coin Core</source>
+        <translation>&amp;Om DELION kerne</translation>
     </message>
     <message>
-        <source>Show information about AlphaCoin Core</source>
-        <translation>Vis information om ALP kerne</translation>
+        <source>Show information about Delion Coin Core</source>
+        <translation>Vis information om DELION kerne</translation>
     </message>
     <message>
-        <source>Modify configuration options for ALP</source>
-        <translation>Ret konfigurationsindstillinger for ALP</translation>
+        <source>Modify configuration options for DELION</source>
+        <translation>Ret konfigurationsindstillinger for DELION</translation>
     </message>
     <message>
-        <source>Sign messages with your AlphaCoin addresses to prove you own them</source>
-        <translation>Underskriv beskeder med Deres ALP adresser for at bekræfte at De ejer dem.</translation>
+        <source>Sign messages with your Delion Coin addresses to prove you own them</source>
+        <translation>Underskriv beskeder med Deres DELION adresser for at bekræfte at De ejer dem.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified AlphaCoin addresses</source>
-        <translation>Verificer besked for at sikre, at den er underskrevet med den opgivne ALP adresse</translation>
+        <source>Verify messages to ensure they were signed with specified Delion Coin addresses</source>
+        <translation>Verificer besked for at sikre, at den er underskrevet med den opgivne DELION adresse</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -666,8 +666,8 @@
         <translation>ÅbnMasternode konfigurationsfil</translation>
     </message>
     <message>
-        <source>Open a ALP: URI or payment request</source>
-        <translation>Åbn en ALP URl eller betalingsanmodning</translation>
+        <source>Open a DELION: URI or payment request</source>
+        <translation>Åbn en DELION URl eller betalingsanmodning</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -678,12 +678,12 @@
         <translation>Blockexplorer vindue</translation>
     </message>
     <message>
-        <source>Show the AlphaCoin Core help message to get a list with possible ALP command-line options</source>
-        <translation>Vis hjelpetekster fra ALP kernen for at få en liste med mulige ALP kommandolinie-startparametre</translation>
+        <source>Show the Delion Coin Core help message to get a list with possible DELION command-line options</source>
+        <translation>Vis hjelpetekster fra DELION kernen for at få en liste med mulige DELION kommandolinie-startparametre</translation>
     </message>
     <message>
-        <source>AlphaCoin Core client</source>
-        <translation>ALP kerneklient</translation>
+        <source>Delion Coin Core client</source>
+        <translation>DELION kerneklient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -813,8 +813,8 @@ Adresse: %4
         <translation>Tekstmærke</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (alp.conf).</source>
-        <translation>Ikke alle transaktioner vil blive vist. For at vise alle transaktioner må De sætte "txindex=1" i konfigurationsfilen (alp.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (delion.conf).</source>
+        <translation>Ikke alle transaktioner vil blive vist. For at vise alle transaktioner må De sætte "txindex=1" i konfigurationsfilen (delion.conf).</translation>
     </message>
 </context>
 <context>
@@ -1114,8 +1114,8 @@ Adresse: %4
         <translation>Ret afsenderadresse</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid AlphaCoin address.</source>
-        <translation>Den indtastede adresse %1 er ikke en gyldig ALP adresse</translation>
+        <source>The entered address "%1" is not a valid Delion Coin address.</source>
+        <translation>Den indtastede adresse %1 er ikke en gyldig DELION adresse</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1160,16 +1160,16 @@ Adresse: %4
         <translation>version</translation>
     </message>
     <message>
-        <source>AlphaCoin Core</source>
-        <translation>ALP kerne</translation>
+        <source>Delion Coin Core</source>
+        <translation>DELION kerne</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About AlphaCoin Core</source>
-        <translation>om ALP kerne</translation>
+        <source>About Delion Coin Core</source>
+        <translation>om DELION kerne</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1215,16 +1215,16 @@ Adresse: %4
         <translation>Velkommen</translation>
     </message>
     <message>
-        <source>Welcome to AlphaCoin Core.</source>
-        <translation>Velkommen til ALP kerne</translation>
+        <source>Welcome to Delion Coin Core.</source>
+        <translation>Velkommen til DELION kerne</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where AlphaCoin Core will store its data.</source>
-        <translation>Da det er første gang programmet startes, kan De vælge hvor ALP kernen skal lagre sine data</translation>
+        <source>As this is the first time the program is launched, you can choose where Delion Coin Core will store its data.</source>
+        <translation>Da det er første gang programmet startes, kan De vælge hvor DELION kernen skal lagre sine data</translation>
     </message>
     <message>
-        <source>AlphaCoin Core will download and store a copy of the ALP block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>ALP kernen vil nu hente og gemme en kopi af ALP blockchain. Der skal være mindst %1GB ledigt på lagermediet, og behovet vil stige efterhånden som tiden går. Selve tegnebogen vil også blive gemt her.</translation>
+        <source>Delion Coin Core will download and store a copy of the DELION block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>DELION kernen vil nu hente og gemme en kopi af DELION blockchain. Der skal være mindst %1GB ledigt på lagermediet, og behovet vil stige efterhånden som tiden går. Selve tegnebogen vil også blive gemt her.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1235,8 +1235,8 @@ Adresse: %4
         <translation>Anvend en mappe valgt af brugeren</translation>
     </message>
     <message>
-        <source>AlphaCoin Core</source>
-        <translation>ALP kerne</translation>
+        <source>Delion Coin Core</source>
+        <translation>DELION kerne</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1377,12 +1377,12 @@ Adresse: %4
         <translation>Indtast modtageradresse</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other AlphaCoin addresses after it matures.
-To Add: enter percentage to give and AlphaCoin address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Delion Coin addresses after it matures.
+To Add: enter percentage to give and Delion Coin address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>Multisend tillader at De automatisk kan sende op til 100% af Deres belønninger fra såvel indskud som masternodebelønninger til en liste over andre ALP adressater når den er tilstrækkelig stor. 
-For at tilføje: Indtast procentsatsen De ønsker at overføre samt den ALP adresse som skal modtage via Multisendsystemet. 
+        <translation>Multisend tillader at De automatisk kan sende op til 100% af Deres belønninger fra såvel indskud som masternodebelønninger til en liste over andre DELION adressater når den er tilstrækkelig stor. 
+For at tilføje: Indtast procentsatsen De ønsker at overføre samt den DELION adresse som skal modtage via Multisendsystemet. 
 For at fjerne: Indtast adressen som skal slettes og klik på slet. 
 Multisend vil ikke fungere med mindre systemet er aktiveret.</translation>
     </message>
@@ -1520,48 +1520,48 @@ Kontroller adressen og prøv igen.</translation>
         <translation>Vælg tilsløringsniveau</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 ALP</source>
-        <translation>Brug 2 separate masternoder for at tilsløre beløb op til 10000 ALP</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 DEL</source>
+        <translation>Brug 2 separate masternoder for at tilsløre beløb op til 10000 DEL</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 ALP</source>
-        <translation>Brug 8 separate masternoder for at tilsløre op til 10000 ALP</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 DEL</source>
+        <translation>Brug 8 separate masternoder for at tilsløre op til 10000 DEL</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Brug 16 separate masternoder</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 ALP to anonymize 10000 ALP</source>
-        <translation>Dette valg er det hurtigste og vil koste i omegnen af 0.025 ALP for at anonymiser 10000 ALP</translation>
+        <source>This option is the quickest and will cost about ~0.025 DEL to anonymize 10000 DEL</source>
+        <translation>Dette valg er det hurtigste og vil koste i omegnen af 0.025 DEL for at anonymiser 10000 DEL</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 ALP to anonymize 10000 ALP</source>
-        <translation>Dette valg er relativt hurtigt og vil koste i omegnen af 0.05 ALP for at anonymiser 10000 ALP</translation>
+        <source>This option is moderately fast and will cost about 0.05 DEL to anonymize 10000 DEL</source>
+        <translation>Dette valg er relativt hurtigt og vil koste i omegnen af 0.05 DEL for at anonymiser 10000 DEL</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Denne mulighed er den langsomste og det mest sikre valg. Valg af maksimal tilsløring vil koste</translation>
     </message>
     <message>
-        <source>0.1 ALP per 10000 ALP you anonymize.</source>
-        <translation>0.1 pr 10000 ALP for at tilsløre.</translation>
+        <source>0.1 DEL per 10000 DEL you anonymize.</source>
+        <translation>0.1 pr 10000 DEL for at tilsløre.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Tilsløringskonfiguration</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening ALP's configuration screen.</source>
-        <translation>Tilsløring blev sat til grundlæggende (%1 og 2 gennemløb) De kan ændre dette hvornår De vil ved at åbne ALP konfigurationsbillede.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening DELION's configuration screen.</source>
+        <translation>Tilsløring blev sat til grundlæggende (%1 og 2 gennemløb) De kan ændre dette hvornår De vil ved at åbne DELION konfigurationsbillede.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening ALP's configuration screen.</source>
-        <translation>Tilsløring blev sat til høj (%1 og 8 gennemløb) De kan ændre dette hvornår De vil ved at åbne ALP konfigurationsbillede.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening DELION's configuration screen.</source>
+        <translation>Tilsløring blev sat til høj (%1 og 8 gennemløb) De kan ændre dette hvornår De vil ved at åbne DELION konfigurationsbillede.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening ALP's configuration screen.</source>
-        <translation>Tilsløring blev sat til maksimum (%1 og 16 gennemløb) De kan ændre dette hvornår De vil ved at åbne ALP konfigurationsbillede.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening DELION's configuration screen.</source>
+        <translation>Tilsløring blev sat til maksimum (%1 og 16 gennemløb) De kan ændre dette hvornår De vil ved at åbne DELION konfigurationsbillede.</translation>
     </message>
 </context>
 <context>
@@ -1622,8 +1622,8 @@ Kontroller adressen og prøv igen.</translation>
         <translation>Hvis De slår "brug af ubekræftede penge tilbage" vil penge tilbage &lt;br/&gt; ikke kunne benyttes før transaktionen er bekræftet mindst en gang. &lt;br/&gt;Dette har også indflydelse på opgørelsen af saldoen.</translation>
     </message>
     <message>
-        <source>Automatically open the ALP client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Åbn ALP klientporten på ruteren automatisk. Virker kun hvis UPnP er slået til i ruteren. </translation>
+        <source>Automatically open the DELION client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Åbn DELION klientporten på ruteren automatisk. Virker kun hvis UPnP er slået til i ruteren. </translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1642,12 +1642,12 @@ Kontroller adressen og prøv igen.</translation>
         <translation>Ekspert</translation>
     </message>
     <message>
-        <source>Automatically start ALP after logging in to the system.</source>
-        <translation>Start ALP automatisk, når der logges på systemet</translation>
+        <source>Automatically start DELION after logging in to the system.</source>
+        <translation>Start DELION automatisk, når der logges på systemet</translation>
     </message>
     <message>
-        <source>&amp;Start ALP on system login</source>
-        <translation>&amp;start ALP når der logges på systemet</translation>
+        <source>&amp;Start DELION on system login</source>
+        <translation>&amp;start DELION når der logges på systemet</translation>
     </message>
     <message>
         <source>This setting determines the amount of individual masternodes that an input will be anonymized through.&lt;br/&gt;More rounds of anonymization gives a higher degree of privacy, but also costs more in fees.</source>
@@ -1662,8 +1662,8 @@ Kontroller adressen og prøv igen.</translation>
         <translation>når dette antal er nået slås tilsløringsfunktonen fra. </translation>
     </message>
     <message>
-        <source>Amount of ALP to keep anonymized</source>
-        <translation>Antallet af ALP som skal holdes tilslørede</translation>
+        <source>Amount of DELION to keep anonymized</source>
+        <translation>Antallet af DELION som skal holdes tilslørede</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1690,22 +1690,22 @@ Kontroller adressen og prøv igen.</translation>
         <translation>&amp;netværk</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting ALP.</source>
-        <translation>Vælg sprog her. Ændringerne træder i kraft næste gang ALP klienten startes</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting DELION.</source>
+        <translation>Vælg sprog her. Ændringerne træder i kraft næste gang DELION klienten startes</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/ALP-project/ALP-project-translations</source>
+https://www.transifex.com/DELION-project/DELION-project-translations</source>
         <translation>Det valgte sprog mangler, eller oversættelsen er mangelfuld. Hjælp ved at bidrage med oversættelser her:
-https://www.transifex.com/ALP-project/ALP-project-translations</translation>
+https://www.transifex.com/DELION-project/DELION-project-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>MAP port ved hjælp af UPnP</translation>
     </message>
     <message>
-        <source>Connect to the ALP network through a SOCKS5 proxy.</source>
-        <translation>Tilslut ALP netværket gennem en SOCKS5 PROXY</translation>
+        <source>Connect to the DELION network through a SOCKS5 proxy.</source>
+        <translation>Tilslut DELION netværket gennem en SOCKS5 PROXY</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1859,8 +1859,8 @@ https://www.transifex.com/ALP-project/ALP-project-translations</translation>
         <translation>Saldi</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ALP network after a connection is established, but this process has not completed yet.</source>
-        <translation>De viste informationer kan være uddaterede. Deres tegnebog synkronisere automatism med ALP netværket så snart en forbindelse er etalbleret, men denne proces er ikke færdiggjort endnu. </translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DELION network after a connection is established, but this process has not completed yet.</source>
+        <translation>De viste informationer kan være uddaterede. Deres tegnebog synkronisere automatism med DELION netværket så snart en forbindelse er etalbleret, men denne proces er ikke færdiggjort endnu. </translation>
     </message>
     <message>
         <source>Unconfirmed transactions to watch-only addresses</source>
@@ -1903,8 +1903,8 @@ https://www.transifex.com/ALP-project/ALP-project-translations</translation>
         <translation>Sløret beløb</translation>
     </message>
     <message>
-        <source>0 ALP / 0 Rounds</source>
-        <translation>0 ALP / 0 gennemløb</translation>
+        <source>0 DEL / 0 Rounds</source>
+        <translation>0 DEL / 0 gennemløb</translation>
     </message>
     <message>
         <source>Enabled/Disabled</source>
@@ -2059,11 +2059,11 @@ https://www.transifex.com/ALP-project/ALP-project-translations</translation>
         <translation>Ugyldig betalingsadresse: %1</translation>
     </message>
     <message>
-        <source>Cannot start ALP: click-to-pay handler</source>
-        <translation>Kan ikke starte ALP "klik for at betale" systemet</translation>
+        <source>Cannot start DELION: click-to-pay handler</source>
+        <translation>Kan ikke starte DELION "klik for at betale" systemet</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid AlphaCoin address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an invalid Delion Coin address or malformed URI parameters.</source>
         <translation>URl kan ikke fortolkes! Det kan skyldes en ugyldig adresse, eller forkerte URl parametre.</translation>
     </message>
     <message>
@@ -2149,8 +2149,8 @@ https://www.transifex.com/ALP-project/ALP-project-translations</translation>
         <translation>Beløb</translation>
     </message>
     <message>
-        <source>Enter a AlphaCoin address (e.g. %1)</source>
-        <translation>Indtast en ALP adresse (F.eks. %1)</translation>
+        <source>Enter a Delion Coin address (e.g. %1)</source>
+        <translation>Indtast en DELION adresse (F.eks. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2283,8 +2283,8 @@ https://www.transifex.com/ALP-project/ALP-project-translations</translation>
         <translation>Block chain</translation>
     </message>
     <message>
-        <source>Open the ALP debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åbn ALP debug logfilen fra den aktuelle datamappe. Det kan godt tage lidt tid hvis filen er meget stor.</translation>
+        <source>Open the DELION debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Åbn DELION debug logfilen fra den aktuelle datamappe. Det kan godt tage lidt tid hvis filen er meget stor.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -2451,8 +2451,8 @@ https://www.transifex.com/ALP-project/ALP-project-translations</translation>
         <translation>Ud:</translation>
     </message>
     <message>
-        <source>Welcome to the ALP RPC console.</source>
-        <translation>Velkommen til ALP RPC konsollet</translation>
+        <source>Welcome to the DELION RPC console.</source>
+        <translation>Velkommen til DELION RPC konsollet</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2522,12 +2522,12 @@ https://www.transifex.com/ALP-project/ALP-project-translations</translation>
         <translation>Valgfri opmærkning som tilknyttes den nye modtageradresse.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the ALP network.</source>
-        <translation>Valgfri besked som vedhæftes betalingsanmodnigen, og som bliver vist når anmodningen åbnes. Note: Beskeden fremsendes ikke sammen med betalingen, når denne sendes ud på ALP netværket.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the DELION network.</source>
+        <translation>Valgfri besked som vedhæftes betalingsanmodnigen, og som bliver vist når anmodningen åbnes. Note: Beskeden fremsendes ikke sammen med betalingen, når denne sendes ud på DELION netværket.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the ALP network.</source>
-        <translation>Valgfri besked som vedhæftes betalingsanmodnigen, og som bliver vist når anmodningen åbnes. &lt;br&gt;Note: Beskeden fremsendes ikke sammen med betalingen, når denne sendes ud på ALP netværket.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the DELION network.</source>
+        <translation>Valgfri besked som vedhæftes betalingsanmodnigen, og som bliver vist når anmodningen åbnes. &lt;br&gt;Note: Beskeden fremsendes ikke sammen med betalingen, når denne sendes ud på DELION netværket.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -2759,8 +2759,8 @@ https://www.transifex.com/ALP-project/ALP-project-translations</translation>
         <translation>UTXO størrelse:</translation>
     </message>
     <message>
-        <source>0 ALP</source>
-        <translation>0 ALP</translation>
+        <source>0 DEL</source>
+        <translation>0 DEL</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -2807,15 +2807,15 @@ https://www.transifex.com/ALP-project/ALP-project-translations</translation>
         <translation>Bekræftelsestid</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uALPs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uALPs in fee,&lt;br /&gt;while "at least" pays 1000 uALPs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Hvis den brugerfastsatte gebyrbetaling er sat til 1000 uALPs og transaktionen kun fylder 250 bytes, så vil "pr. kilobyte" kun udbetale 250 uALP i gebyr, &lt;br /&gt; mens "mindst" udbetaler 1000 uALPs. For transaktioner større end en kilobyte betales i begge tilfælde i forhold til antallet af kilobytes </translation>
+        <source>If the custom fee is set to 1000 uDELs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uDELs in fee,&lt;br /&gt;while "at least" pays 1000 uDELs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Hvis den brugerfastsatte gebyrbetaling er sat til 1000 uDELs og transaktionen kun fylder 250 bytes, så vil "pr. kilobyte" kun udbetale 250 uDEL i gebyr, &lt;br /&gt; mens "mindst" udbetaler 1000 uDELs. For transaktioner større end en kilobyte betales i begge tilfælde i forhold til antallet af kilobytes </translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uALPs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uALPs in fee,&lt;br /&gt;while "total at least" pays 1000 uALPs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Hvis den brugerfastsatte gebyrbetaling er sat til 1000 uALPs og transaktionen kun fylder 250 bytes, så vil "pr. kilobyte" kun udbetale 250 uALP i gebyr, &lt;br /&gt; mens "Total-mindst" udbetaler 1000 uALPs. For transaktioner større end en kilobyte betales i begge tilfælde i forhold til antallet af kilobytes </translation>
+        <source>If the custom fee is set to 1000 uDELs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uDELs in fee,&lt;br /&gt;while "total at least" pays 1000 uDELs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Hvis den brugerfastsatte gebyrbetaling er sat til 1000 uDELs og transaktionen kun fylder 250 bytes, så vil "pr. kilobyte" kun udbetale 250 uDEL i gebyr, &lt;br /&gt; mens "Total-mindst" udbetaler 1000 uDELs. For transaktioner større end en kilobyte betales i begge tilfælde i forhold til antallet af kilobytes </translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for ALP transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for DELION transactions than the network can process.</source>
         <translation>Betaling af mindste transaktionsgebyr vil være fint så længe der er færre transaktioner end der er plads til i blokkene. &lt;br /&gt; Men opmærksomheden henledes på, at det kan resultere i en transaktion der aldrig bliver bekræftet i det øjeblik der er større behov for transaktioner end netværket har plads til. </translation>
     </message>
     <message>
@@ -2919,8 +2919,8 @@ https://www.transifex.com/ALP-project/ALP-project-translations</translation>
         <translation>Anonyme saldi</translation>
     </message>
     <message>
-        <source>Warning: Invalid AlphaCoin address</source>
-        <translation>Advarsel! Ugyldig ALP adresse</translation>
+        <source>Warning: Invalid Delion Coin address</source>
+        <translation>Advarsel! Ugyldig DELION adresse</translation>
     </message>
     <message>
         <source>any available funds (not recommended)</source>
@@ -3026,8 +3026,8 @@ https://www.transifex.com/ALP-project/ALP-project-translations</translation>
         <translation>Betal &amp;Til</translation>
     </message>
     <message>
-        <source>The AlphaCoin address to send the payment to</source>
-        <translation>ALP adressen, som betalingen skal sendes til</translation>
+        <source>The Delion Coin address to send the payment to</source>
+        <translation>DELION adressen, som betalingen skal sendes til</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3066,8 +3066,8 @@ https://www.transifex.com/ALP-project/ALP-project-translations</translation>
         <translation>Besked</translation>
     </message>
     <message>
-        <source>A message that was attached to the ALP: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the ALP network.</source>
-        <translation>En besked, der var vedhæftet til ALP: URl wil blive gemt sammen med transaktionen som reference. Note: Beskeden bliver medsendt transaktionen over netværket.</translation>
+        <source>A message that was attached to the DELION: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the DELION network.</source>
+        <translation>En besked, der var vedhæftet til DELION: URl wil blive gemt sammen med transaktionen som reference. Note: Beskeden bliver medsendt transaktionen over netværket.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -3093,8 +3093,8 @@ https://www.transifex.com/ALP-project/ALP-project-translations</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>AlphaCoin Core is shutting down...</source>
-        <translation>ALP kernen lukker ned</translation>
+        <source>Delion Coin Core is shutting down...</source>
+        <translation>DELION kernen lukker ned</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -3116,8 +3116,8 @@ https://www.transifex.com/ALP-project/ALP-project-translations</translation>
         <translation>De kan underskrive beskeder med Deres adresser or at bevise ejerskab. Vær forsigtig med at underskrive noget De er usikker på såsom forsøg op at narre Dem til at oplyse Deres identitet. Skriv kun under på noget De kan stå inde for, og som De er enig i. </translation>
     </message>
     <message>
-        <source>The AlphaCoin address to sign the message with</source>
-        <translation>Den ALP adresse, der skal bruges til at underskrive beskeden med.</translation>
+        <source>The Delion Coin address to sign the message with</source>
+        <translation>Den DELION adresse, der skal bruges til at underskrive beskeden med.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3148,16 +3148,16 @@ https://www.transifex.com/ALP-project/ALP-project-translations</translation>
         <translation>Kopier den aktuelle underskrift til udklipsholderen.</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this AlphaCoin address</source>
-        <translation>Underskriv beskeden for at bevise, at De ejer denne ALP adresse.</translation>
+        <source>Sign the message to prove you own this Delion Coin address</source>
+        <translation>Underskriv beskeden for at bevise, at De ejer denne DELION adresse.</translation>
     </message>
     <message>
-        <source>The AlphaCoin address the message was signed with</source>
-        <translation>Beskeden er underskrevet med denne ALP adresse</translation>
+        <source>The Delion Coin address the message was signed with</source>
+        <translation>Beskeden er underskrevet med denne DELION adresse</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified AlphaCoin address</source>
-        <translation>verificer beskeden for at sikre, at den blev underskrevet med den rigtige ALP adresse.</translation>
+        <source>Verify the message to ensure it was signed with the specified Delion Coin address</source>
+        <translation>verificer beskeden for at sikre, at den blev underskrevet med den rigtige DELION adresse.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -3243,8 +3243,8 @@ https://www.transifex.com/ALP-project/ALP-project-translations</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>AlphaCoin Core</source>
-        <translation>ALP kerne</translation>
+        <source>Delion Coin Core</source>
+        <translation>DELION kerne</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3259,8 +3259,8 @@ https://www.transifex.com/ALP-project/ALP-project-translations</translation>
         <translation>DASH "core" udviklerne</translation>
     </message>
     <message>
-        <source>The AlphaCoin Core developers</source>
-        <translation>ALP "core" udviklerne</translation>
+        <source>The Delion Coin Core developers</source>
+        <translation>DELION "core" udviklerne</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3791,8 +3791,8 @@ https://www.transifex.com/ALP-project/ALP-project-translations</translation>
         <translation>Send mønter</translation>
     </message>
     <message>
-        <source>SwiftTX doesn't support sending values that high yet. Transactions are currently limited to %1 ALP.</source>
-        <translation>SwiftTx understøtter ikke afsendelse af så store beløb endnu. Transaktioner er for tiden begrænsede til %1ALP.</translation>
+        <source>SwiftTX doesn't support sending values that high yet. Transactions are currently limited to %1 DELION.</source>
+        <translation>SwiftTx understøtter ikke afsendelse af så store beløb endnu. Transaktioner er for tiden begrænsede til %1DELION.</translation>
     </message>
 </context>
 <context>
@@ -3835,7 +3835,7 @@ https://www.transifex.com/ALP-project/ALP-project-translations</translation>
     </message>
 </context>
 <context>
-    <name>alp-core</name>
+    <name>del-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1 = beholdtx metadata. For eksempel information om kontoejer og betalngsanmodninger, 2 = drop TX metadata)</translation>
@@ -3861,8 +3861,8 @@ https://www.transifex.com/ALP-project/ALP-project-translations</translation>
         <translation>Forbind til den opgivne adresse og lyt efter JSON-.RPC forbindelser. Brug [host]:port notation for IPv6. Der kan indsættes flere linier (standard: Forbind til alle interfaces)</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. AlphaCoin Core is probably already running.</source>
-        <translation>Kan ikke låse datamappen %s. AlphaCoin Core kører sandsynligvis allerede.</translation>
+        <source>Cannot obtain a lock on data directory %s. Delion Coin Core is probably already running.</source>
+        <translation>Kan ikke låse datamappen %s. Delion Coin Core kører sandsynligvis allerede.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -3881,8 +3881,8 @@ https://www.transifex.com/ALP-project/ALP-project-translations</translation>
         <translation>Slet alle tegnebogens transaktioner og genskab kun fra blokkæden ved at tilføje -rescan i forbindes med opstart.</translation>
     </message>
     <message>
-        <source>Disable all ALP specific functionality (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, default: %u)</source>
-        <translation>Slå alle ALP funktioner fra (Masternoder, Tilsløring, SwiftTX, Budgetting)(0-1,default:%u)</translation>
+        <source>Disable all DELION specific functionality (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, default: %u)</source>
+        <translation>Slå alle DELION funktioner fra (Masternoder, Tilsløring, SwiftTX, Budgetting)(0-1,default:%u)</translation>
     </message>
     <message>
         <source>Distributed under the MIT software license, see the accompanying file COPYING or &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</source>
@@ -3926,12 +3926,12 @@ https://www.transifex.com/ALP-project/ALP-project-translations</translation>
         <translation>Udfør en kommando når den bedste blok ændres (%s in cmd erstattes med blok hashen)</translation>
     </message>
     <message>
-        <source>Fees (in ALP/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Gebyrer (in ALP/kb) lavere end dette betragtes som et nul-gebyr for at videresende (default: %s)</translation>
+        <source>Fees (in DEL/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Gebyrer (in DEL/kb) lavere end dette betragtes som et nul-gebyr for at videresende (default: %s)</translation>
     </message>
     <message>
-        <source>Fees (in ALP/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Gebyrer (in ALP/kb) lavere end dette betragtes som et nul-gebyr for at oprette en transaktion (default: %s)</translation>
+        <source>Fees (in DEL/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Gebyrer (in DEL/kb) lavere end dette betragtes som et nul-gebyr for at oprette en transaktion (default: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -3983,7 +3983,7 @@ https://www.transifex.com/ALP-project/ALP-project-translations</translation>
     </message>
     <message>
         <source>Obfuscation uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>
-        <translation>Tilsløring bruger hele det tilslørede designerede beløb til at sende betalinger. De kan blot tilsløre yderligere ALP</translation>
+        <translation>Tilsløring bruger hele det tilslørede designerede beløb til at sende betalinger. De kan blot tilsløre yderligere DELION</translation>
     </message>
     <message>
         <source>Output debugging information (default: %u, supplying &lt;category&gt; is optional)</source>
@@ -3991,7 +3991,7 @@ https://www.transifex.com/ALP-project/ALP-project-translations</translation>
     </message>
     <message>
         <source>Provide liquidity to Obfuscation by infrequently mixing coins on a continual basis (0-100, default: %u, 1=very frequent, high fees, 100=very infrequent, low fees)</source>
-        <translation>Tilfør tilsløring likviditet  ved at tilføje flere ALP løbende (0-100, default:%u, 1=meget hyppigt, høje gebyrer, 100=sjældent, lave gebyrer)</translation>
+        <translation>Tilfør tilsløring likviditet  ved at tilføje flere DELION løbende (0-100, default:%u, 1=meget hyppigt, høje gebyrer, 100=sjældent, lave gebyrer)</translation>
     </message>
     <message>
         <source>Query for peer addresses via DNS lookup, if low on addresses (default: 1 unless -connect)</source>
@@ -4034,44 +4034,44 @@ https://www.transifex.com/ALP-project/ALP-project-translations</translation>
         <translation>Dette produkt anvender software udviklet i OpenSSL projektet til brug i OpenSSL værktøjssættet &lt;https://www.openssl.org/&gt; og kryptosoftware skrevet afEric Young og UPnP software skrevet af Thomas Bernard.</translation>
     </message>
     <message>
-        <source>To use ALPd, or the -server option to ALP-qt, you must set an rpcpassword in the configuration file:
+        <source>To use deliond, or the -server option to delion-qt, you must set an rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=ALPrpc
+rpcuser=delionrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "ALP Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "DELION Alert" admin@foo.com
 </source>
-        <translation>For at bruge ALPd eller -server muligheden sammen med ALP-qt skal der angives et rpc kodeord i konfigurationsfilen:
+        <translation>For at bruge deliond eller -server muligheden sammen med delion-qt skal der angives et rpc kodeord i konfigurationsfilen:
 %s
 De anbefales at benytte følgende tilfældige kodeord
-Rpcuser=ALPrpc
+Rpcuser=delionrpc
 rpcpasswrd=%s
 (Det er ikke nødvendigt at huske dette kodeord)
 Brugernavn og kodeord MÅ IKKE VÆRE ENS!
 Hvis filen ikke eksisterer, opret den med sikkerhedsindstillingen - ejer kun læserettigheder tilladelsen.
 Det anbefales tillige at vælge alertnotify til for at blive orienteret om eventuelle problemer.
-For eksempel: alertnotify=Echo %% | mail - s "ALP ALARM!" e-mail@administrator.dk
+For eksempel: alertnotify=Echo %% | mail - s "DELION ALARM!" e-mail@administrator.dk
 </translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. AlphaCoin Core is probably already running.</source>
-        <translation>Det var ikke muligt at forbinde %s på denne computer. ALP kører sandsynligvis allerede.</translation>
+        <source>Unable to bind to %s on this computer. Delion Coin Core is probably already running.</source>
+        <translation>Det var ikke muligt at forbinde %s på denne computer. DELION kører sandsynligvis allerede.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
         <translation>Det er ikke muligt at allokere tilstrækkeligt med tilsløret designeret indestående for at gennemføre denne transaktion.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 ALP.</source>
-        <translation>Det er ikke muligt at allokere tilstrækkeligt med tilsløret  ikke-designeret indestående for at gennemføre denne transaktion, der ikke ækvivalerer 10000 ALP.</translation>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 DEL.</source>
+        <translation>Det er ikke muligt at allokere tilstrækkeligt med tilsløret  ikke-designeret indestående for at gennemføre denne transaktion, der ikke ækvivalerer 10000 DEL.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 ALP.</source>
-        <translation>Det var ikke muligt at allokere tilstrækkelige midler til denne transaktion som er forskellig fra 10000 ALP.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 DEL.</source>
+        <translation>Det var ikke muligt at allokere tilstrækkelige midler til denne transaktion som er forskellig fra 10000 DEL.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -4086,8 +4086,8 @@ For eksempel: alertnotify=Echo %% | mail - s "ALP ALARM!" e-mail@administrator.d
         <translation>Advarsel! -paytxfee er sat meget højt. Det er dette gebyr De kommer til at betale for transaktionen, hvis De gennemfører. </translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong AlphaCoin Core will not work properly.</source>
-        <translation>Advarsel! Kontroller at computerens dato og tid er korrekt indstillet. Hvis tiden ikke er rigtig, vil AlphaCoin Core ikke fungere ordentligt.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Delion Coin Core will not work properly.</source>
+        <translation>Advarsel! Kontroller at computerens dato og tid er korrekt indstillet. Hvis tiden ikke er rigtig, vil Delion Coin Core ikke fungere ordentligt.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -4234,8 +4234,8 @@ For eksempel: alertnotify=Echo %% | mail - s "ALP ALARM!" e-mail@administrator.d
         <translation>Copyright (C) 2014-%i The Dash Core Developers </translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The AlphaCoin Core Developers</source>
-        <translation>Copyright (C) 2015-%i The AlphaCoin Core Developers</translation>
+        <source>Copyright (C) 2015-%i The Delion Coin Core Developers</source>
+        <translation>Copyright (C) 2015-%i The Delion Coin Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -4306,8 +4306,8 @@ For eksempel: alertnotify=Echo %% | mail - s "ALP ALARM!" e-mail@administrator.d
         <translation>Fejl ved indlæsning af wallet.dat: Tegnebogen er beskadiget</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of AlphaCoin Core</source>
-        <translation>Fejl ved indlæsning af wallet.dat: Tegnebogen kræver en nyere version af AlphaCoin Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Delion Coin Core</source>
+        <translation>Fejl ved indlæsning af wallet.dat: Tegnebogen kræver en nyere version af Delion Coin Core</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -4358,8 +4358,8 @@ For eksempel: alertnotify=Echo %% | mail - s "ALP ALARM!" e-mail@administrator.d
         <translation>Læsning af blokken mislykkedes</translation>
     </message>
     <message>
-        <source>Fee (in ALP/kB) to add to transactions you send (default: %s)</source>
-        <translation>Gebyr (i ALP/kB) som skal tilføjes transaktionen der sendes (default: %s)</translation>
+        <source>Fee (in DEL/kB) to add to transactions you send (default: %s)</source>
+        <translation>Gebyr (i DEL/kB) som skal tilføjes transaktionen der sendes (default: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>
@@ -4418,8 +4418,8 @@ For eksempel: alertnotify=Echo %% | mail - s "ALP ALARM!" e-mail@administrator.d
         <translation>Info:</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. AlphaCoin Core is shutting down.</source>
-        <translation>Initiering af sanitetskontrollen fejlede. AlphaCoin Core lukker ned. </translation>
+        <source>Initialization sanity check failed. Delion Coin Core is shutting down.</source>
+        <translation>Initiering af sanitetskontrollen fejlede. Delion Coin Core lukker ned. </translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -4494,8 +4494,8 @@ For eksempel: alertnotify=Echo %% | mail - s "ALP ALARM!" e-mail@administrator.d
         <translation>Forsøg at gennemtvinge reparation af korrumperet blokkæde</translation>
     </message>
     <message>
-        <source>Keep N ALP anonymized (default: %u)</source>
-        <translation>Behold N ALP anonymiserede (default: %u)</translation>
+        <source>Keep N DEL anonymized (default: %u)</source>
+        <translation>Behold N DEL anonymiserede (default: %u)</translation>
     </message>
     <message>
         <source>Keep at most &lt;n&gt; unconnectable transactions in memory (default: %u)</source>
@@ -4994,8 +4994,8 @@ For eksempel: alertnotify=Echo %% | mail - s "ALP ALARM!" e-mail@administrator.d
         <translation>Tegnebogen er låst</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart AlphaCoin Core to complete</source>
-        <translation>Tegnebogen måtte genskrives. Genstart AlphaCoin Core for at gøre færdig</translation>
+        <source>Wallet needed to be rewritten: restart Delion Coin Core to complete</source>
+        <translation>Tegnebogen måtte genskrives. Genstart Delion Coin Core for at gøre færdig</translation>
     </message>
     <message>
         <source>Wallet options:</source>
