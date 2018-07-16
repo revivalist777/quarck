@@ -270,12 +270,12 @@
         <translation>A&amp;juda</translation>
     </message>
     <message>
-        <source>AlphaCoin Core</source>
-        <translation>AlphaCoin Core</translation>
+        <source>Delion Coin Core</source>
+        <translation>Delion Coin Core</translation>
     </message>
     <message>
-        <source>&amp;About AlphaCoin Core</source>
-        <translation>&amp;Sobre AlphaCoin Core</translation>
+        <source>&amp;About Delion Coin Core</source>
+        <translation>&amp;Sobre Delion Coin Core</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -468,12 +468,12 @@
         <translation>versió</translation>
     </message>
     <message>
-        <source>AlphaCoin Core</source>
-        <translation>AlphaCoin Core</translation>
+        <source>Delion Coin Core</source>
+        <translation>Delion Coin Core</translation>
     </message>
     <message>
-        <source>About AlphaCoin Core</source>
-        <translation>Sobre AlphaCoin Core</translation>
+        <source>About Delion Coin Core</source>
+        <translation>Sobre Delion Coin Core</translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -491,12 +491,12 @@
         <translation>Benvingut</translation>
     </message>
     <message>
-        <source>Welcome to AlphaCoin Core.</source>
-        <translation>Benvingut a AlphaCoin Core.</translation>
+        <source>Welcome to Delion Coin Core.</source>
+        <translation>Benvingut a Delion Coin Core.</translation>
     </message>
     <message>
-        <source>AlphaCoin Core</source>
-        <translation>AlphaCoin Core</translation>
+        <source>Delion Coin Core</source>
+        <translation>Delion Coin Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1048,8 +1048,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>AlphaCoin Core</source>
-        <translation>AlphaCoin Core</translation>
+        <source>Delion Coin Core</source>
+        <translation>Delion Coin Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -1200,7 +1200,7 @@
     </message>
     </context>
 <context>
-    <name>alp-core</name>
+    <name>delioin-core</name>
     <message>
         <source>Error</source>
         <translation>Error</translation>
